@@ -1,0 +1,14 @@
+GO
+CREATE TABLE dbo.Customers
+(
+	CustomerId INT PRIMARY KEY IDENTITY,
+	FirstName VARCHAR(200),
+	LastName VARCHAR(200),
+	Age INT,
+	Gender VARCHAR(5),
+	AddedOn DATETIME,
+	AddedBy VARCHAR(200),
+	EditedOn DATETIME,
+	EditedBy VARCHAR(200)
+)
+GO
