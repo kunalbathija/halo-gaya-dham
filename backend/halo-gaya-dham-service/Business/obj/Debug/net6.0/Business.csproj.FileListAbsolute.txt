@@ -12,3 +12,6 @@ C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dh
 C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\obj\Debug\net6.0\Business.pdb
 C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\obj\Debug\net6.0\Business.genruntimeconfig.cache
 C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\obj\Debug\net6.0\ref\Business.dll
+C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\bin\Debug\net6.0\Common.dll
+C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\bin\Debug\net6.0\Common.pdb
+C:\Users\kunal.bathija\source\repos\Personal\halo-gaya-dham\backend\halo-gaya-dham-service\Business\obj\Debug\net6.0\Business.csproj.CopyComplete

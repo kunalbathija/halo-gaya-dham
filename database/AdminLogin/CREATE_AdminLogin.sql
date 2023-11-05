@@ -11,3 +11,13 @@ CREATE TABLE dbo.AdminLogins
 )
 GO
 
+GO
+ALTER TABLE dbo.AdminLogins
+ADD CONSTRAINT UQ_Username UNIQUE (Username) 
+GO
+
+
+
+
+
+
